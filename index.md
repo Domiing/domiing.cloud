@@ -1,4 +1,1 @@
-# Domiing LLC
-### Oh no! You are in the wrong place D:
-
-#### You probably want to go [here](https://domiing.com)
+This is the domiing repository, if you didn't mean to come here, you probably should click [here](https://domiing.com) :D
